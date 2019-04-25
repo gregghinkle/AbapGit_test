@@ -1,2 +1,2 @@
 # ABAPGit_Test
-ABAPGit Testing Repository
+Test Repository to get experience using ABAPGit
