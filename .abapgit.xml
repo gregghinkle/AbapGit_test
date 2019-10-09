@@ -14,6 +14,12 @@
     <item>/.gitlab-ci.yml</item>
     <item>/abaplint.json</item>
     <item>/azure-pipelines.yml</item>
+    <item>/src/zbpinst_dataelement1.dtel.xml</item>
+    <item>/src/zbpinst_domain1.doma.xml</item>
+    <item>/src/zzpggah_test1.prog.abap</item>
+    <item>/src/zzpggah_test1.prog.xml</item>
+    <item>/src/zzpggah_test3.prog.abap</item>
+    <item>/src/zzpggah_test3.prog.xml</item>
    </IGNORE>
   </DATA>
  </asx:values>
